@@ -1,5 +1,5 @@
 # html-portfolio
-This is a code repository of the very first projects I created using HTML, its a collection of two projects. The first project is a list of my favourite movies, in order of rank and my second project is a Birthday Invitation. In these projects, It was my first time experimenting with different HTML elements. (Clicking on the links "here!" will take you to the orignal website, where you can have a closer look). 
+This is a code repository of the very first projects I created using HTML, its a collection of two projects. The first project is a list of my favourite movies, in order of rank and my second project is a Birthday Invitation. It was my first time experimenting with different HTML elements. (If you click the links "here!"it will direct you to the orignal website, where you can have a closer look). 
 
 This project is completed and was achieved using the following tech stack: HTML 
 
